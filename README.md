@@ -12,7 +12,8 @@
 
 #### How to run
 - Clone the repository 
-- inside the terminal: ``` cabal new-run```
+- Open terminal inside the local repository and run: 
+- ``` cabal new-run```
 
 #### Todo
 - Implement CPU
